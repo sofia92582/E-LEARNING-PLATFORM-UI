@@ -28,3 +28,8 @@ This task helps you practice front-end development by designing a multi-page, in
 Deliverable:
 Submit a responsive, styled front-end design of the e-learning platform. Make sure it's well-organized and uploaded to GitHub. Comment your code where needed for better understanding.
 OUTPUT:
+![Image](https://github.com/user-attachments/assets/da18d7b4-d994-44da-b074-abd8f20d99e0)
+
+![Image](https://github.com/user-attachments/assets/09aab086-df22-4159-8713-7b286785f4c5)
+
+![Image](https://github.com/user-attachments/assets/911266cf-37be-4e39-a1db-8c71d545289b)
