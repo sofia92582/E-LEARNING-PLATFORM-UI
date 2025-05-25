@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>HTML & CSS Course</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <header>
+    <h1>HTML & CSS Course</h1>
+    <nav>
+      <a href="index.html">Home</a>
+    </nav>
+  </header>
+
+  <main class="container">
+    <h2>Course Content</h2>
+    <div class="video-container">
+      <iframe width="100%" height="315" src="https://www.youtube.com/embed/UB1O30fR-EE" frameborder="0" allowfullscreen></iframe>
+    </div>
+    <h3>Progress</h3>
+    <div class="progress-bar">
+      <div class="progress" id="progress" style="width: 40%;">40%</div>
+    </div>
+    <button onclick="updateProgress()">Mark as Completed</button>
+  </main>
+
+  <footer>
+    <p>© 2025 LearnHub</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
